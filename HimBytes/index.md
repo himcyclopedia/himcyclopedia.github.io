@@ -1,13 +1,13 @@
 ---
-title: "HimBytes | Bit-size Info-Aggregator of Himachal Pradesh"
+title: "Himbytes | Bit-size Info-aggregator of Himachal Pradesh"
 summary: ''
 description: ''
 author:
-   name: Team HimBytes
-keywords: ["HimBytes", "Bit-size Info-Aggregator of Himachal Pradesh","Himachal Pradesh News","News of Himachal"."Current Affairs of Himachal Pradesh","Himpradesh News"]
+   name: Team Himcyclopedia
+keywords: ["Universities in Himachal Pradesh", "Himachal Pradesh Universities","List of universities in Himachal Pradesh"]
+license:
 published:
 modified:
-CSS: style.css
 
 ---
 
