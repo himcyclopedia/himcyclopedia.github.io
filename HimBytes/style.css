@@ -1,6 +1,5 @@
 *{
   font-family: 'Roboto';
-  color: black;
   padding: 0 0 0 0;
   margin: 0 0 0 0;
 }
@@ -19,6 +18,24 @@ div.header{
   color: #00A773;
   text-align: center;
   font-size: 25px;
-  border-radius: 4px 4px 0 0;
-  padding: 0.5rem;
+  border-radius: 8px 8px 0 0;
+  padding: 5px;
+}
+
+div.subHeader{
+  display: block;
+  background-color: #00A773;
+  color: #1a1a1a;
+  text-align: center;
+  font-size: 18px;
+  padding: 2px;
+}
+
+div.subHeader a {
+  text-decoration: none;
+  color: inherit;
+}
+
+div.subHeader a:hover{
+  color: white;
 }
