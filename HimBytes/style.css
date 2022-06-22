@@ -1,8 +1,6 @@
 *{
   font-family: 'Roboto';
   box-sizing: border-box;
-  padding: 0 0 0 0;
-  margin: 0 0 0 0;
 }
 
 h1{
@@ -13,10 +11,6 @@ h2{
   color: #4EC49F;
 }
 
-div{
-  margin: 0 0 0 0;
-}
-
 div.header{
   display: block;
   background-color: #1a1a1a;
@@ -25,7 +19,7 @@ div.header{
   font-size: 28px;
   border-radius: 8px 8px 0 0;
   user-select: none;
-  margin: inherit;
+  margin: 0;
 }
 
 div.subHeader{
@@ -35,7 +29,7 @@ div.subHeader{
   text-align: center;
   font-size: 18px;
   border-radius: 0 0 8px 8px;
-  margin: inherit;
+  margin: 0;
 }
 
 div.subHeader a {
