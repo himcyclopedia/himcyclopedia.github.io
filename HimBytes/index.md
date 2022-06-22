@@ -1,3 +1,8 @@
+<head>
+   <link href='https://fonts.googleapis.com/css?family=Roboto: 400' rel='stylesheet'>
+   <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
 # National Parks in Himachal Pradesh
 
 A **national park** is a natural park that is marked and protected by the Governments for the conservation of flora, fauna, vegetation, and wildlife.
