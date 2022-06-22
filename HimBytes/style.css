@@ -12,3 +12,10 @@ h1{
 h2{
   color: #4EC49F;
 }
+
+div.header{
+  display: block;
+  background-color: #00A773;
+  color: black;
+  font-size: 25px;
+}
