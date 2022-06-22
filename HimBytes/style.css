@@ -19,7 +19,6 @@ div.header{
   font-size: 28px;
   border-radius: 8px 8px 0 0;
   user-select: none;
-  margin: 0;
 }
 
 div.subHeader{
@@ -29,7 +28,6 @@ div.subHeader{
   text-align: center;
   font-size: 18px;
   border-radius: 0 0 8px 8px;
-  margin: 0;
 }
 
 div.subHeader a {
