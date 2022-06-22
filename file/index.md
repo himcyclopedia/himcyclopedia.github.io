@@ -17,14 +17,17 @@ modified:
    <link rel="stylesheet" type="text/css" href="/static/style.css">
 </head>
 
-<div class=header>
-  <h1> Himbytes <h1>
-  <p> Bytes of Himachal Pradesh </p>
+<div class="header">
+        <img src="himcyclopedia.png" alt="Himcyclopedia Logo">
+        <p class="subtext"> The En<b>cyclopedia</b> of <b>Him</b>achal Pradesh </p>
 </div>
 
-<div class="breadcrumb">
-   // <a href="https://himcyclopedia.github.io"> Home </a> >
-   <a href="#"> Outline of Himachal Pradesh </a>
+<div class="subHeader">
+        <p>
+          <a href="">About</a> &nbsp; &#183; &nbsp;
+          <a href="">HimBits</a> &nbsp; &#183; &nbsp;
+          <a href="">Contact</a>
+        </p>
 </div>
 
 # National Parks in Himachal Pradesh
