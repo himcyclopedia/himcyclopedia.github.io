@@ -17,5 +17,6 @@ div.header{
   display: block;
   background-color: #00A773;
   color: black;
+  text-align: center;
   font-size: 25px;
 }
