@@ -2,10 +2,11 @@
    <link href='https://fonts.googleapis.com/css?family=Roboto: 400' rel='stylesheet'>
    <link rel="stylesheet" type="text/css" href="style.css">
 </head>
-
+<body>
 <div class="header">
    <p> HimBytes </p>   
 </div>
+</body>
 
 # National Parks in Himachal Pradesh
 
