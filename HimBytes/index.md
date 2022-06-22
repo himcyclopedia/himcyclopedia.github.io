@@ -6,6 +6,13 @@
 <div class="header">
    <p> HimBytes </p>   
 </div>
+<div class="subHeader">
+   <p>
+      <a href=""> About </a> &nbsp; &#183; &nbsp;
+      <a href=""> Himbytes </a> &nbsp; &#183; &nbsp;
+      <a href=""> Contact </a>
+   </p>   
+</div>
 </body>
 
 # National Parks in Himachal Pradesh
