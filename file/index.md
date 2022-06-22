@@ -18,7 +18,6 @@ modified:
 </head>
 
 <div class="header">
-        <img src="himcyclopedia.png" alt="Himcyclopedia Logo">
         <p class="subtext"> The En<b>cyclopedia</b> of <b>Him</b>achal Pradesh </p>
 </div>
 
